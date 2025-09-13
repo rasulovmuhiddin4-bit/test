@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Uy-joy Elonlari Xaritasi</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+    <div id="map"></div>
+    <div id="loader">Yuklanmoqda...</div>
+    <div id="listing-details" class="hidden">
+        <div class="details-header">
+            <h3 id="listing-title"></h3>
+            <button id="close-details">×</button>
+        </div>
+        <div class="details-content">
+            <p><strong>Turi:</strong> <span id="listing-category"></span></p>
+            <p><strong>Narxi:</strong> <span id="listing-price"></span></p>
+            <p><strong>Qavat:</strong> <span id="listing-floor"></span></p>
+            <p><strong>Xonalar:</strong> <span id="listing-rooms"></span></p>
+            <button id="show-more">Batafsil ma'lumot</button>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
