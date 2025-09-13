@@ -1,0 +1,384 @@
+2025-09-13 00:10:47 - bot - INFO - 🤖 Bot ishga tushmoqda...
+2025-09-13 00:10:52 - bot - INFO - ✅ Database jadvallari yaratildi
+2025-09-13 00:10:58 - bot - INFO - 📊 Stats: 4 foydalanuvchi, 0 e'lon
+2025-09-13 00:10:59 - bot - INFO - ✅ Bot muvaffaqiyatli ishga tushdi
+2025-09-13 00:10:59 - bot - INFO - 📍 Polling rejimida ishlayapdi...
+2025-09-13 00:10:59 - bot - INFO - 👤 Foydalanuvchi start bosdi: 606226674 - A_Asadbek
+2025-09-13 00:11:01 - bot - INFO - ✅ Foydalanuvchi 606226674 allaqachon uz tilini tanlagan
+2025-09-13 00:11:04 - bot - INFO - 📝 Foydalanuvchi 606226674 e'lon joylashni boshladi
+2025-09-13 00:26:18 - bot - INFO - 🛑 Bot to'xtamoqda...
+2025-09-13 00:26:18 - bot - INFO - ✅ Database connection yopildi
+2025-09-13 00:26:18 - bot - INFO - ✅ Bot session yopildi
+2025-09-13 00:26:23 - bot - INFO - 🤖 Bot ishga tushmoqda...
+2025-09-13 00:26:29 - bot - INFO - ✅ Database jadvallari yaratildi
+2025-09-13 00:26:29 - bot - ERROR - ❌ Xatolik yuz berdi: 'Database' object has no attribute 'get_stats'
+Traceback (most recent call last):
+  File "E:\project_root\bot\main.py", line 48, in main
+    await on_startup(db)
+  File "E:\project_root\bot\main.py", line 33, in on_startup
+    stats = await db.get_stats()
+                  ^^^^^^^^^^^^
+AttributeError: 'Database' object has no attribute 'get_stats'
+2025-09-13 00:26:29 - bot - INFO - 🛑 Bot to'xtamoqda...
+2025-09-13 00:26:50 - bot - INFO - 🤖 Bot ishga tushmoqda...
+2025-09-13 00:26:56 - bot - INFO - ✅ Database jadvallari yaratildi
+2025-09-13 00:26:56 - bot - ERROR - ❌ Xatolik yuz berdi: 'Database' object has no attribute 'get_stats'
+Traceback (most recent call last):
+  File "E:\project_root\bot\main.py", line 48, in main
+    await on_startup(db)
+  File "E:\project_root\bot\main.py", line 33, in on_startup
+    stats = await db.get_stats()
+                  ^^^^^^^^^^^^
+AttributeError: 'Database' object has no attribute 'get_stats'
+2025-09-13 00:26:56 - bot - INFO - 🛑 Bot to'xtamoqda...
+2025-09-13 00:30:04 - bot - INFO - 🤖 Bot ishga tushmoqda...
+2025-09-13 00:30:10 - bot - INFO - ✅ Database jadvallari yaratildi
+2025-09-13 00:30:16 - bot - INFO - 📊 Stats: 4 foydalanuvchi, 0 e'lon
+2025-09-13 00:30:16 - bot - INFO - ✅ Bot muvaffaqiyatli ishga tushdi
+2025-09-13 00:30:16 - bot - INFO - 📍 Polling rejimida ishlayapdi...
+2025-09-13 00:30:30 - bot - INFO - 👤 Foydalanuvchi start bosdi: 606226674 - A_Asadbek
+2025-09-13 00:30:32 - bot - INFO - ✅ Foydalanuvchi 606226674 allaqachon uz tilini tanlagan
+2025-09-13 00:30:37 - bot - INFO - 📝 Foydalanuvchi 606226674 e'lon joylashni boshladi
+2025-09-13 00:31:33 - bot - ERROR - Ad photo error: name 'get_photo_confirm_keyboard' is not defined
+2025-09-13 00:31:33 - bot - ERROR - Ad photo error: name 'get_photo_confirm_keyboard' is not defined
+2025-09-13 00:31:33 - bot - ERROR - Ad photo error: name 'get_photo_confirm_keyboard' is not defined
+2025-09-13 00:31:33 - bot - ERROR - Ad photo error: name 'get_photo_confirm_keyboard' is not defined
+2025-09-13 00:31:33 - bot - ERROR - Ad photo error: name 'get_photo_confirm_keyboard' is not defined
+2025-09-13 00:31:47 - bot - ERROR - Ad photo error: name 'get_photo_confirm_keyboard' is not defined
+2025-09-13 00:31:52 - bot - ERROR - Ad photo error: name 'get_photo_confirm_keyboard' is not defined
+2025-09-13 00:31:52 - bot - ERROR - Ad photo error: name 'get_photo_confirm_keyboard' is not defined
+2025-09-13 00:32:40 - bot - INFO - 🛑 Bot to'xtamoqda...
+2025-09-13 00:32:41 - bot - INFO - ✅ Database connection yopildi
+2025-09-13 00:32:41 - bot - INFO - ✅ Bot session yopildi
+2025-09-13 00:37:38 - bot - INFO - 🤖 Bot ishga tushmoqda...
+2025-09-13 00:37:44 - bot - INFO - ✅ Database jadvallari yaratildi
+2025-09-13 00:37:49 - bot - INFO - 📊 Stats: 4 foydalanuvchi, 0 e'lon
+2025-09-13 00:37:50 - bot - INFO - ✅ Bot muvaffaqiyatli ishga tushdi
+2025-09-13 00:37:50 - bot - INFO - 📍 Polling rejimida ishlayapdi...
+2025-09-13 00:38:02 - bot - INFO - 👤 Foydalanuvchi start bosdi: 6627966530 - FullGames2025
+2025-09-13 00:38:03 - bot - INFO - ✅ Foydalanuvchi 6627966530 allaqachon uz tilini tanlagan
+2025-09-13 00:38:07 - bot - INFO - 📝 Foydalanuvchi 6627966530 e'lon joylashni boshladi
+2025-09-13 00:38:57 - bot - ERROR - Ad confirmation error: column "photo_url" of relation "listing_photos" does not exist
+2025-09-13 00:44:13 - bot - INFO - 🛑 Bot to'xtamoqda...
+2025-09-13 00:44:13 - bot - INFO - ✅ Database connection yopildi
+2025-09-13 00:44:13 - bot - INFO - ✅ Bot session yopildi
+2025-09-13 00:44:19 - bot - INFO - 🤖 Bot ishga tushmoqda...
+2025-09-13 00:44:23 - bot - ERROR - ❌ Xatolik yuz berdi: syntax error at or near "#"
+Traceback (most recent call last):
+  File "E:\project_root\bot\main.py", line 52, in main
+    await on_startup(db)
+  File "E:\project_root\bot\main.py", line 29, in on_startup
+    await db.create_tables()
+  File "E:\project_root\bot\utils\db.py", line 61, in create_tables
+    await conn.execute('''
+    ...<7 lines>...
+    ''')
+  File "E:\project_root\venv\Lib\site-packages\asyncpg\connection.py", line 349, in execute
+    result = await self._protocol.query(query, timeout)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "asyncpg\\protocol\\protocol.pyx", line 375, in query
+asyncpg.exceptions.PostgresSyntaxError: syntax error at or near "#"
+2025-09-13 00:44:23 - bot - INFO - 🛑 Bot to'xtamoqda...
+2025-09-13 00:44:24 - bot - INFO - ✅ Database connection yopildi
+2025-09-13 15:43:26 - bot - INFO - 🤖 Bot ishga tushmoqda...
+2025-09-13 15:43:30 - bot - ERROR - ❌ Xatolik yuz berdi: syntax error at or near "#"
+Traceback (most recent call last):
+  File "E:\project_root\bot\main.py", line 52, in main
+    await on_startup(db)
+  File "E:\project_root\bot\main.py", line 29, in on_startup
+    await db.create_tables()
+  File "E:\project_root\bot\utils\db.py", line 61, in create_tables
+    await conn.execute('''
+    ...<7 lines>...
+    ''')
+  File "E:\project_root\venv\Lib\site-packages\asyncpg\connection.py", line 349, in execute
+    result = await self._protocol.query(query, timeout)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "asyncpg\\protocol\\protocol.pyx", line 375, in query
+asyncpg.exceptions.PostgresSyntaxError: syntax error at or near "#"
+2025-09-13 15:43:30 - bot - INFO - 🛑 Bot to'xtamoqda...
+2025-09-13 15:43:30 - bot - INFO - ✅ Database connection yopildi
+2025-09-13 15:50:51 - bot - INFO - 🤖 Bot ishga tushmoqda...
+2025-09-13 15:50:56 - bot - ERROR - ❌ Xatolik yuz berdi: name 'logger' is not defined
+Traceback (most recent call last):
+  File "E:\project_root\bot\main.py", line 54, in main
+    await on_startup(db)
+  File "E:\project_root\bot\main.py", line 30, in on_startup
+    await db.update_tables()  # ✅ Yangi qo'shildi
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\project_root\bot\utils\db.py", line 233, in update_tables
+    logger.info("✅ photo_url ustuni qo'shildi")
+    ^^^^^^
+NameError: name 'logger' is not defined
+2025-09-13 15:50:56 - bot - INFO - 🛑 Bot to'xtamoqda...
+2025-09-13 15:50:57 - bot - INFO - ✅ Database connection yopildi
+2025-09-13 15:52:58 - bot - INFO - 🤖 Bot ishga tushmoqda...
+2025-09-13 15:53:03 - bot - INFO - ✅ Database jadvallari yaratildi va yangilandi
+2025-09-13 15:53:07 - bot - INFO - 📊 Stats: 4 foydalanuvchi, 1 e'lon
+2025-09-13 15:53:08 - bot - INFO - ✅ Bot muvaffaqiyatli ishga tushdi
+2025-09-13 15:53:08 - bot - INFO - 📍 Polling rejimida ishlayapdi...
+2025-09-13 15:53:26 - bot - INFO - 👤 Foydalanuvchi start bosdi: 606226674 - A_Asadbek
+2025-09-13 15:53:28 - bot - INFO - ✅ Foydalanuvchi 606226674 allaqachon uz tilini tanlagan
+2025-09-13 15:53:31 - bot - INFO - 📝 Foydalanuvchi 606226674 e'lon joylashni boshladi
+2025-09-13 15:54:02 - bot - ERROR - Ad confirmation error: null value in column "file_id" of relation "listing_photos" violates not-null constraint
+DETAIL:  Failing row contains (1, 2, null, 2025-09-13 10:54:01.40726, AgACAgIAAxkBAAIBqmjFTUPNLBQO9ifBuFziQUl1L0VKAAJk_DEbGcsoSu8fPt13...).
+2025-09-13 16:04:32 - bot - INFO - 🛑 Bot to'xtamoqda...
+2025-09-13 16:04:32 - bot - INFO - ✅ Database connection yopildi
+2025-09-13 16:04:32 - bot - INFO - ✅ Bot session yopildi
+2025-09-13 16:04:45 - bot - INFO - 🤖 Bot ishga tushmoqda...
+2025-09-13 16:04:51 - bot - INFO - ✅ Database jadvallari yaratildi va yangilandi
+2025-09-13 16:04:55 - bot - INFO - 📊 Stats: 4 foydalanuvchi, 2 e'lon
+2025-09-13 16:04:55 - bot - INFO - ✅ Bot muvaffaqiyatli ishga tushdi
+2025-09-13 16:04:55 - bot - INFO - 📍 Polling rejimida ishlayapdi...
+2025-09-13 16:05:03 - bot - INFO - 👤 Foydalanuvchi start bosdi: 606226674 - A_Asadbek
+2025-09-13 16:05:05 - bot - INFO - ✅ Foydalanuvchi 606226674 allaqachon uz tilini tanlagan
+2025-09-13 16:05:09 - bot - INFO - 📝 Foydalanuvchi 606226674 e'lon joylashni boshladi
+2025-09-13 16:05:36 - bot - ERROR - Ad confirmation error: null value in column "file_id" of relation "listing_photos" violates not-null constraint
+DETAIL:  Failing row contains (2, 3, null, 2025-09-13 11:05:35.764128, AgACAgIAAxkBAAIBIWjEadhkDfl9NCRmTNICnLFKIT5PAALK_DEbGcsgSmnpQKsz...).
+2025-09-13 16:36:57 - bot - INFO - 🛑 Bot to'xtamoqda...
+2025-09-13 16:36:57 - bot - INFO - ✅ Database connection yopildi
+2025-09-13 16:36:57 - bot - INFO - ✅ Bot session yopildi
+2025-09-13 16:37:29 - bot - INFO - 🤖 Bot ishga tushmoqda...
+2025-09-13 16:37:34 - bot - INFO - ✅ Database jadvallari yaratildi va yangilandi
+2025-09-13 16:37:38 - bot - INFO - 📊 Stats: 4 foydalanuvchi, 3 e'lon
+2025-09-13 16:37:39 - bot - INFO - ✅ Bot muvaffaqiyatli ishga tushdi
+2025-09-13 16:37:39 - bot - INFO - 📍 Polling rejimida ishlayapdi...
+2025-09-13 16:37:50 - bot - INFO - 👤 Foydalanuvchi start bosdi: 606226674 - A_Asadbek
+2025-09-13 16:37:52 - bot - INFO - ✅ Foydalanuvchi 606226674 allaqachon uz tilini tanlagan
+2025-09-13 16:37:54 - bot - INFO - 📝 Foydalanuvchi 606226674 e'lon joylashni boshladi
+2025-09-13 16:38:18 - bot - ERROR - Ad photo error: name 'photo_urls' is not defined
+2025-09-13 16:38:18 - bot - ERROR - Ad photo error: name 'photo_urls' is not defined
+2025-09-13 16:42:42 - bot - INFO - 🛑 Bot to'xtamoqda...
+2025-09-13 16:42:42 - bot - INFO - ✅ Database connection yopildi
+2025-09-13 16:42:42 - bot - INFO - ✅ Bot session yopildi
+2025-09-13 16:42:51 - bot - INFO - 🤖 Bot ishga tushmoqda...
+2025-09-13 16:42:58 - bot - INFO - ✅ Database jadvallari yaratildi va yangilandi
+2025-09-13 16:43:04 - bot - INFO - 📊 Stats: 4 foydalanuvchi, 3 e'lon
+2025-09-13 16:43:04 - bot - INFO - ✅ Bot muvaffaqiyatli ishga tushdi
+2025-09-13 16:43:04 - bot - INFO - 📍 Polling rejimida ishlayapdi...
+2025-09-13 16:43:13 - bot - INFO - 👤 Foydalanuvchi start bosdi: 606226674 - A_Asadbek
+2025-09-13 16:43:15 - bot - INFO - ✅ Foydalanuvchi 606226674 allaqachon uz tilini tanlagan
+2025-09-13 16:43:18 - bot - INFO - 📝 Foydalanuvchi 606226674 e'lon joylashni boshladi
+2025-09-13 16:43:37 - bot - ERROR - Ad photo error: name 'photo_urls' is not defined
+2025-09-13 16:46:51 - bot - INFO - 🛑 Bot to'xtamoqda...
+2025-09-13 16:46:51 - bot - INFO - ✅ Database connection yopildi
+2025-09-13 16:46:51 - bot - INFO - ✅ Bot session yopildi
+2025-09-13 16:46:55 - bot - INFO - 🤖 Bot ishga tushmoqda...
+2025-09-13 16:47:02 - bot - INFO - ✅ Database jadvallari yaratildi va yangilandi
+2025-09-13 16:47:08 - bot - INFO - 📊 Stats: 4 foydalanuvchi, 3 e'lon
+2025-09-13 16:47:09 - bot - INFO - ✅ Bot muvaffaqiyatli ishga tushdi
+2025-09-13 16:47:09 - bot - INFO - 📍 Polling rejimida ishlayapdi...
+2025-09-13 16:47:17 - bot - INFO - 👤 Foydalanuvchi start bosdi: 606226674 - A_Asadbek
+2025-09-13 16:47:19 - bot - INFO - ✅ Foydalanuvchi 606226674 allaqachon uz tilini tanlagan
+2025-09-13 16:47:26 - bot - INFO - 👀 Foydalanuvchi 606226674 mavjud e'lonlarni ko'rmoqchi
+2025-09-13 16:47:49 - bot - INFO - 📝 Foydalanuvchi 606226674 e'lon joylashni boshladi
+2025-09-13 16:48:26 - bot - INFO - ✅ Foydalanuvchi 606226674 yangi e'lon joyladi: 4
+2025-09-13 16:48:41 - bot - INFO - 👀 Foydalanuvchi 606226674 mavjud e'lonlarni ko'rmoqchi
+2025-09-13 17:00:02 - bot - INFO - 🛑 Bot to'xtamoqda...
+2025-09-13 17:00:02 - bot - INFO - ✅ Database connection yopildi
+2025-09-13 17:00:02 - bot - INFO - ✅ Bot session yopildi
+2025-09-13 17:00:06 - bot - INFO - 🤖 Bot ishga tushmoqda...
+2025-09-13 17:00:12 - bot - INFO - ✅ Database jadvallari yaratildi va yangilandi
+2025-09-13 17:00:16 - bot - INFO - 📊 Stats: 4 foydalanuvchi, 4 e'lon
+2025-09-13 17:00:16 - bot - INFO - ✅ Bot muvaffaqiyatli ishga tushdi
+2025-09-13 17:00:16 - bot - INFO - 📍 Polling rejimida ishlayapdi...
+2025-09-13 17:00:19 - bot - INFO - 👀 Foydalanuvchi 606226674 mavjud e'lonlarni ko'rmoqchi
+2025-09-13 17:54:40 - bot - INFO - 🛑 Bot to'xtamoqda...
+2025-09-13 17:54:40 - bot - INFO - ✅ Database connection yopildi
+2025-09-13 17:54:40 - bot - INFO - ✅ Bot session yopildi
+2025-09-13 18:19:29 - bot - INFO - 🤖 Bot ishga tushmoqda...
+2025-09-13 18:19:33 - bot - INFO - ✅ Database tables created successfully
+2025-09-13 18:19:34 - bot - ERROR - ❌ Xatolik yuz berdi: 'Database' object has no attribute 'update_tables'
+Traceback (most recent call last):
+  File "E:\project_root\bot\main.py", line 54, in main
+    await on_startup(db)
+  File "E:\project_root\bot\main.py", line 30, in on_startup
+    await db.update_tables()  # ✅ Yangi qo'shildi
+          ^^^^^^^^^^^^^^^^
+AttributeError: 'Database' object has no attribute 'update_tables'. Did you mean: 'create_tables'?
+2025-09-13 18:19:34 - bot - INFO - 🛑 Bot to'xtamoqda...
+2025-09-13 18:19:34 - bot - INFO - ✅ Database connection yopildi
+2025-09-13 18:19:48 - bot - INFO - 🤖 Bot ishga tushmoqda...
+2025-09-13 18:19:52 - bot - INFO - ✅ Database tables created successfully
+2025-09-13 18:19:52 - bot - ERROR - ❌ Xatolik yuz berdi: 'Database' object has no attribute 'update_tables'
+Traceback (most recent call last):
+  File "E:\project_root\bot\main.py", line 54, in main
+    await on_startup(db)
+  File "E:\project_root\bot\main.py", line 30, in on_startup
+    await db.update_tables()  # ✅ Yangi qo'shildi
+          ^^^^^^^^^^^^^^^^
+AttributeError: 'Database' object has no attribute 'update_tables'. Did you mean: 'create_tables'?
+2025-09-13 18:19:52 - bot - INFO - 🛑 Bot to'xtamoqda...
+2025-09-13 18:19:52 - bot - INFO - ✅ Database connection yopildi
+2025-09-13 18:22:49 - bot - INFO - 🤖 Bot ishga tushmoqda...
+2025-09-13 18:22:53 - bot - INFO - ✅ Database tables created successfully
+2025-09-13 18:22:53 - bot - INFO - ✅ Database jadvallari yaratildi va yangilandi
+2025-09-13 18:22:53 - bot - WARNING - ⚠️ Stats olishda xatolik: 'Database' object has no attribute 'get_stats'
+2025-09-13 18:22:54 - bot - INFO - ✅ Bot muvaffaqiyatli ishga tushdi
+2025-09-13 18:22:54 - bot - INFO - 📍 Polling rejimida ishlayapdi...
+2025-09-13 18:23:06 - bot - INFO - 👤 Foydalanuvchi start bosdi: 606226674 - A_Asadbek
+2025-09-13 18:23:07 - bot - ERROR - Start handler xatosi: Database.add_user() got an unexpected keyword argument 'phone'
+2025-09-13 18:30:30 - bot - INFO - 🛑 Bot to'xtamoqda...
+2025-09-13 18:30:30 - bot - INFO - ✅ Database connection yopildi
+2025-09-13 18:30:30 - bot - INFO - ✅ Bot session yopildi
+2025-09-13 18:33:15 - bot - INFO - 🤖 Bot ishga tushmoqda...
+2025-09-13 18:33:19 - bot - INFO - ✅ Database tables created successfully
+2025-09-13 18:33:19 - bot - INFO - ✅ Database jadvallari yaratildi va yangilandi
+2025-09-13 18:33:20 - bot - INFO - 📊 Stats: 0 foydalanuvchi, 0 e'lon
+2025-09-13 18:33:20 - bot - INFO - ✅ Bot muvaffaqiyatli ishga tushdi
+2025-09-13 18:33:20 - bot - INFO - 📍 Polling rejimida ishlayapdi...
+2025-09-13 18:33:24 - bot - INFO - 👤 Foydalanuvchi start bosdi: 606226674 - A_Asadbek
+2025-09-13 18:33:26 - bot - INFO - 🌐 Foydalanuvchi 606226674 til tanlaydi
+2025-09-13 18:33:31 - bot - INFO - ✅ Foydalanuvchi 606226674 uz tilini tanladi
+2025-09-13 18:33:33 - bot - INFO - 👤 Foydalanuvchi start bosdi: 606226674 - A_Asadbek
+2025-09-13 18:33:34 - bot - INFO - 🌐 Foydalanuvchi 606226674 til tanlaydi
+2025-09-13 18:33:39 - bot - INFO - ✅ Foydalanuvchi 606226674 uz tilini tanladi
+2025-09-13 18:35:15 - bot - ERROR - ❌ Error adding listing: insert or update on table "listings" violates foreign key constraint "listings_user_id_fkey"
+DETAIL:  Key (user_id)=(606226674) is not present in table "users".
+2025-09-13 18:35:50 - bot - ERROR - ❌ Error adding listing: insert or update on table "listings" violates foreign key constraint "listings_user_id_fkey"
+DETAIL:  Key (user_id)=(606226674) is not present in table "users".
+2025-09-13 18:46:47 - bot - INFO - ✅ Listing added successfully: ID 3
+2025-09-13 18:58:45 - bot - INFO - 🛑 Bot to'xtamoqda...
+2025-09-13 18:58:45 - bot - INFO - ✅ Database connection yopildi
+2025-09-13 18:58:45 - bot - INFO - ✅ Bot session yopildi
+2025-09-13 18:59:03 - bot - INFO - 🤖 Bot ishga tushmoqda...
+2025-09-13 18:59:07 - bot - INFO - ✅ Database tables created successfully
+2025-09-13 18:59:07 - bot - INFO - ✅ Database jadvallari yaratildi va yangilandi
+2025-09-13 18:59:08 - bot - INFO - 📊 Stats: 2 foydalanuvchi, 1 e'lon
+2025-09-13 18:59:08 - bot - INFO - ✅ Bot muvaffaqiyatli ishga tushdi
+2025-09-13 18:59:08 - bot - INFO - 📍 Polling rejimida ishlayapdi...
+2025-09-13 18:59:46 - bot - INFO - 👤 Foydalanuvchi start bosdi: 606226674 - A_Asadbek
+2025-09-13 18:59:47 - bot - INFO - ✅ Foydalanuvchi 606226674 allaqachon uz tilini tanlagan
+2025-09-13 19:01:08 - bot - INFO - ✅ Listing added successfully: ID 4
+2025-09-13 19:05:38 - bot - INFO - 🛑 Bot to'xtamoqda...
+2025-09-13 19:05:38 - bot - INFO - ✅ Database connection yopildi
+2025-09-13 19:05:38 - bot - INFO - ✅ Bot session yopildi
+2025-09-13 19:05:42 - bot - INFO - 🤖 Bot ishga tushmoqda...
+2025-09-13 19:05:46 - bot - INFO - ✅ Database tables created successfully
+2025-09-13 19:05:46 - bot - INFO - ✅ Database jadvallari yaratildi va yangilandi
+2025-09-13 19:05:47 - bot - INFO - 📊 Stats: 2 foydalanuvchi, 2 e'lon
+2025-09-13 19:05:47 - bot - INFO - ✅ Bot muvaffaqiyatli ishga tushdi
+2025-09-13 19:05:47 - bot - INFO - 📍 Polling rejimida ishlayapdi...
+2025-09-13 19:05:51 - bot - INFO - 👤 Foydalanuvchi start bosdi: 606226674 - A_Asadbek
+2025-09-13 19:05:52 - bot - INFO - ✅ Foydalanuvchi 606226674 allaqachon uz tilini tanlagan
+2025-09-13 19:07:25 - bot - INFO - ✅ Listing added successfully: ID 5
+2025-09-13 19:07:25 - bot - INFO - 📤 E'lon kanalga yuborildi: Faqat oilaga zaks orqali beriladi
+2025-09-13 19:11:55 - bot - INFO - 🛑 Bot to'xtamoqda...
+2025-09-13 19:11:55 - bot - INFO - ✅ Database connection yopildi
+2025-09-13 19:11:55 - bot - INFO - ✅ Bot session yopildi
+2025-09-13 19:12:04 - bot - INFO - 🤖 Bot ishga tushmoqda...
+2025-09-13 19:12:08 - bot - INFO - ✅ Database tables created successfully
+2025-09-13 19:12:08 - bot - INFO - ✅ Database jadvallari yaratildi va yangilandi
+2025-09-13 19:12:09 - bot - INFO - 📊 Stats: 2 foydalanuvchi, 3 e'lon
+2025-09-13 19:12:09 - bot - INFO - ✅ Bot muvaffaqiyatli ishga tushdi
+2025-09-13 19:12:09 - bot - INFO - 📍 Polling rejimida ishlayapdi...
+2025-09-13 19:13:24 - bot - INFO - ✅ Listing added successfully: ID 6
+2025-09-13 19:13:24 - bot - INFO - 📤 E'lon kanalga yuborildi: 6 | User: 606226674
+2025-09-13 19:13:45 - bot - INFO - 👤 Foydalanuvchi start bosdi: 6627966530 - FullGames2025
+2025-09-13 19:13:45 - bot - ERROR - ❌ Error getting user: invalid input for query argument $1: 6627966530 (value out of int32 range)
+2025-09-13 19:13:46 - bot - INFO - 🌐 Foydalanuvchi 6627966530 til tanlaydi
+2025-09-13 19:13:49 - bot - INFO - ✅ Foydalanuvchi 6627966530 uz tilini tanladi
+2025-09-13 19:15:44 - bot - INFO - ✅ Listing added successfully: ID 7
+2025-09-13 19:15:44 - bot - INFO - 📤 E'lon kanalga yuborildi: 7 | User: 6627966530
+2025-09-13 19:25:37 - bot - INFO - 🛑 Bot to'xtamoqda...
+2025-09-13 19:25:37 - bot - INFO - ✅ Database connection yopildi
+2025-09-13 19:25:37 - bot - INFO - ✅ Bot session yopildi
+2025-09-13 19:26:03 - bot - INFO - 🤖 Bot ishga tushmoqda...
+2025-09-13 19:26:07 - bot - INFO - ✅ Database tables created successfully
+2025-09-13 19:26:07 - bot - INFO - ✅ Database jadvallari yaratildi va yangilandi
+2025-09-13 19:26:08 - bot - INFO - 📊 Stats: 3 foydalanuvchi, 5 e'lon
+2025-09-13 19:26:08 - bot - INFO - ✅ Bot muvaffaqiyatli ishga tushdi
+2025-09-13 19:26:08 - bot - INFO - 📍 Polling rejimida ishlayapdi...
+2025-09-13 19:27:25 - bot - ERROR - Confirm delete error: Telegram server says - Bad Request: there is no text in the message to edit
+2025-09-13 19:27:30 - bot - ERROR - Confirm delete error: Telegram server says - Bad Request: there is no text in the message to edit
+2025-09-13 19:38:26 - bot - INFO - 🛑 Bot to'xtamoqda...
+2025-09-13 19:38:26 - bot - INFO - ✅ Database connection yopildi
+2025-09-13 19:38:26 - bot - INFO - ✅ Bot session yopildi
+2025-09-13 19:38:32 - bot - INFO - 🤖 Bot ishga tushmoqda...
+2025-09-13 19:38:35 - bot - INFO - ✅ Database tables created successfully
+2025-09-13 19:38:35 - bot - INFO - ✅ Database jadvallari yaratildi va yangilandi
+2025-09-13 19:38:36 - bot - INFO - 📊 Stats: 3 foydalanuvchi, 4 e'lon
+2025-09-13 19:38:37 - bot - INFO - ✅ Bot muvaffaqiyatli ishga tushdi
+2025-09-13 19:38:37 - bot - INFO - 📍 Polling rejimida ishlayapdi...
+2025-09-13 19:38:42 - bot - INFO - 👤 Foydalanuvchi start bosdi: 606226674 - A_Asadbek
+2025-09-13 19:38:44 - bot - INFO - ✅ Foydalanuvchi 606226674 allaqachon uz tilini tanlagan
+2025-09-13 19:39:21 - bot - ERROR - Confirm delete error: name 'ADMIN_IDS' is not defined
+2025-09-13 19:39:46 - bot - ERROR - Confirm delete error: name 'ADMIN_IDS' is not defined
+2025-09-13 19:40:21 - bot - INFO - 👤 Foydalanuvchi start bosdi: 1949875396 - MuslimMak2024
+2025-09-13 19:40:22 - bot - INFO - 🌐 Foydalanuvchi 1949875396 til tanlaydi
+2025-09-13 19:40:24 - bot - INFO - ✅ Foydalanuvchi 1949875396 uz tilini tanladi
+2025-09-13 19:40:45 - bot - INFO - 👤 Foydalanuvchi start bosdi: 1949875396 - MuslimMak2024
+2025-09-13 19:40:46 - bot - INFO - 🌐 Foydalanuvchi 1949875396 til tanlaydi
+2025-09-13 19:40:48 - bot - INFO - ✅ Foydalanuvchi 1949875396 uz tilini tanladi
+2025-09-13 19:40:51 - bot - INFO - 👤 Foydalanuvchi start bosdi: 1949875396 - MuslimMak2024
+2025-09-13 19:40:52 - bot - INFO - 🌐 Foydalanuvchi 1949875396 til tanlaydi
+2025-09-13 19:40:54 - bot - INFO - ✅ Foydalanuvchi 1949875396 uz tilini tanladi
+2025-09-13 19:47:50 - bot - INFO - 🛑 Bot to'xtamoqda...
+2025-09-13 19:47:50 - bot - INFO - ✅ Database connection yopildi
+2025-09-13 19:47:50 - bot - INFO - ✅ Bot session yopildi
+2025-09-13 19:48:05 - bot - INFO - 🤖 Bot ishga tushmoqda...
+2025-09-13 19:48:08 - bot - INFO - ✅ Database tables created successfully
+2025-09-13 19:48:08 - bot - INFO - ✅ Database jadvallari yaratildi va yangilandi
+2025-09-13 19:48:09 - bot - INFO - 📊 Stats: 4 foydalanuvchi, 4 e'lon
+2025-09-13 19:48:10 - bot - INFO - ✅ Bot muvaffaqiyatli ishga tushdi
+2025-09-13 19:48:10 - bot - INFO - 📍 Polling rejimida ishlayapdi...
+2025-09-13 19:51:45 - bot - INFO - 👤 Foydalanuvchi start bosdi: 606226674 - A_Asadbek
+2025-09-13 19:51:47 - bot - INFO - ✅ Foydalanuvchi 606226674 allaqachon uz tilini tanlagan
+2025-09-13 19:52:05 - bot - ERROR - Confirm delete error: name 'ADMIN_IDS' is not defined
+2025-09-13 19:52:28 - bot - INFO - 👤 Foydalanuvchi start bosdi: 1949875396 - MuslimMak2024
+2025-09-13 19:52:28 - bot - INFO - ✅ Foydalanuvchi 1949875396 allaqachon uz tilini tanlagan
+2025-09-13 19:59:18 - bot - INFO - 🛑 Bot to'xtamoqda...
+2025-09-13 19:59:18 - bot - INFO - ✅ Database connection yopildi
+2025-09-13 19:59:18 - bot - INFO - ✅ Bot session yopildi
+2025-09-13 20:01:09 - bot - INFO - 🤖 Bot ishga tushmoqda...
+2025-09-13 20:01:13 - bot - INFO - ✅ Database tables created successfully
+2025-09-13 20:01:13 - bot - INFO - ✅ Database jadvallari yaratildi va yangilandi
+2025-09-13 20:01:14 - bot - INFO - 📊 Stats: 4 foydalanuvchi, 4 e'lon
+2025-09-13 20:01:14 - bot - INFO - ✅ Bot muvaffaqiyatli ishga tushdi
+2025-09-13 20:01:14 - bot - INFO - 📍 Polling rejimida ishlayapdi...
+2025-09-13 20:01:24 - bot - ERROR - Confirm delete error: Database.delete_listing() got an unexpected keyword argument 'is_admin'
+2025-09-13 20:03:36 - bot - INFO - 🛑 Bot to'xtamoqda...
+2025-09-13 20:03:36 - bot - INFO - ✅ Database connection yopildi
+2025-09-13 20:03:36 - bot - INFO - ✅ Bot session yopildi
+2025-09-13 20:03:41 - bot - INFO - 🤖 Bot ishga tushmoqda...
+2025-09-13 20:03:44 - bot - INFO - ✅ Database tables created successfully
+2025-09-13 20:03:44 - bot - INFO - ✅ Database jadvallari yaratildi va yangilandi
+2025-09-13 20:03:45 - bot - INFO - 📊 Stats: 4 foydalanuvchi, 4 e'lon
+2025-09-13 20:03:46 - bot - INFO - ✅ Bot muvaffaqiyatli ishga tushdi
+2025-09-13 20:03:46 - bot - INFO - 📍 Polling rejimida ishlayapdi...
+2025-09-13 20:03:51 - bot - ERROR - Confirm delete error: Database.delete_listing() got an unexpected keyword argument 'is_admin'
+2025-09-13 20:03:54 - bot - ERROR - Confirm delete error: Database.delete_listing() got an unexpected keyword argument 'is_admin'
+2025-09-13 20:10:54 - bot - INFO - 🛑 Bot to'xtamoqda...
+2025-09-13 20:10:54 - bot - INFO - ✅ Database connection yopildi
+2025-09-13 20:10:54 - bot - INFO - ✅ Bot session yopildi
+2025-09-13 20:10:59 - bot - INFO - 🤖 Bot ishga tushmoqda...
+2025-09-13 20:11:02 - bot - INFO - ✅ Database tables created successfully
+2025-09-13 20:11:02 - bot - INFO - ✅ Database jadvallari yaratildi va yangilandi
+2025-09-13 20:11:02 - bot - WARNING - ⚠️ Stats olishda xatolik: 'Database' object has no attribute 'get_stats'
+2025-09-13 20:11:03 - bot - INFO - ✅ Bot muvaffaqiyatli ishga tushdi
+2025-09-13 20:11:03 - bot - INFO - 📍 Polling rejimida ishlayapdi...
+2025-09-13 20:11:03 - bot - INFO - 👤 Foydalanuvchi start bosdi: 606226674 - A_Asadbek
+2025-09-13 20:11:03 - bot - ERROR - Start handler xatosi: 'Database' object has no attribute 'get_user'
+2025-09-13 20:11:06 - bot - INFO - 👤 Foydalanuvchi start bosdi: 606226674 - A_Asadbek
+2025-09-13 20:11:06 - bot - ERROR - Start handler xatosi: 'Database' object has no attribute 'get_user'
+2025-09-13 20:13:50 - bot - INFO - 🛑 Bot to'xtamoqda...
+2025-09-13 20:13:54 - bot - INFO - 🤖 Bot ishga tushmoqda...
+2025-09-13 20:13:58 - bot - INFO - ✅ Database tables created successfully
+2025-09-13 20:13:58 - bot - INFO - ✅ Database jadvallari yaratildi va yangilandi
+2025-09-13 20:13:58 - bot - WARNING - ⚠️ Stats olishda xatolik: 'Database' object has no attribute 'get_stats'
+2025-09-13 20:13:58 - bot - INFO - ✅ Bot muvaffaqiyatli ishga tushdi
+2025-09-13 20:13:58 - bot - INFO - 📍 Polling rejimida ishlayapdi...
+2025-09-13 20:14:11 - bot - INFO - 👤 Foydalanuvchi start bosdi: 606226674 - A_Asadbek
+2025-09-13 20:14:11 - bot - ERROR - Start handler xatosi: 'Database' object has no attribute 'get_user'
+2025-09-13 20:18:23 - bot - INFO - 🛑 Bot to'xtamoqda...
+2025-09-13 20:18:29 - bot - INFO - 🤖 Bot ishga tushmoqda...
+2025-09-13 20:18:32 - bot - INFO - ✅ Database tables created successfully
+2025-09-13 20:18:32 - bot - INFO - ✅ Database jadvallari yaratildi va yangilandi
+2025-09-13 20:18:37 - bot - INFO - 📊 Stats: 4 foydalanuvchi, 4 e'lon
+2025-09-13 20:18:37 - bot - INFO - ✅ Bot muvaffaqiyatli ishga tushdi
+2025-09-13 20:18:37 - bot - INFO - 📍 Polling rejimida ishlayapdi...
+2025-09-13 20:18:38 - bot - INFO - 👤 Foydalanuvchi start bosdi: 606226674 - A_Asadbek
+2025-09-13 20:18:39 - bot - INFO - ✅ Foydalanuvchi 606226674 allaqachon uz tilini tanlagan
+2025-09-13 20:19:32 - bot - INFO - ✅ Listing added successfully: ID 8
+2025-09-13 20:19:33 - bot - INFO - 📤 E'lon kanalga yuborildi: 8 | User: 606226674
+2025-09-13 20:19:55 - bot - ERROR - Confirm delete error: Database.delete_listing() got an unexpected keyword argument 'is_admin'
